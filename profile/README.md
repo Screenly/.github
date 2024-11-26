@@ -15,3 +15,7 @@ The Playground is where we put a lot of open source examples on how to use Scree
 ### [CLI](https://github.com/Screenly/cli)
 
 Our CLI for Screenly is open source and makes it easy to automate common tasks.
+
+### [Chrome Extension](https://github.com/Screenly/Chrome-Extension/)
+
+Our 'Add to Screenly' Chrome extension.
